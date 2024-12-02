@@ -1,7 +1,7 @@
 export const recommendedListData = [
     {
         "id": 1,
-        "name": "Punjabi Dhaba - Ali...",
+        "name": "Punjabi Dhaba",
         "discount": "40% OFF",
         "discountAmount": "up to ₹80",
         "time": "25 mins",
@@ -31,7 +31,7 @@ export const recommendedListData = [
     },
     {
         "id": 4,
-        "name": "Neel Kamal Veg Fami...",
+        "name": "Neel Kamal Fami",
         "discount": "FLAT ₹50 OFF",
         "rating": 1.2,
         "discountAmount": "up to ₹70",

@@ -9,7 +9,7 @@ const HeaderHome:FC = () => {
   return (
     <View style={styles.container}>
       <LocationHeader/>
-      <Graphic/>
+      {/* <Graphic/> */}
     </View>
   )
 }
